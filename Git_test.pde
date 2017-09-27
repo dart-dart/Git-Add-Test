@@ -1,10 +1,3 @@
 //Git test 
 
-void setup(){
-  size (400 , 400);
-}
-
-void draw(){
-  
-  
-}
+//The sky is blue and sometimes orange.
